@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KWK Freestyle",
+  "base_artist": "tip jam",
+  "createdAt": "2026-03-29T07:50:30.478883Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KWK Freestyle",
+      "artist": "tip jam",
+      "has_synced": false,
+      "path": "select/pl_01_KWK_Freestyle_tip_jam.txt"
+    }
+  ]
+}
